@@ -28,5 +28,5 @@
     "url": "https://github.com/iha2/prompt.ai/issues"
   },
   "homepage": "https://github.com/iha2/prompt.ai#readme",
-  "description": ""
+  "description": "A cli for interating with ChatGPT and other LLVMs"
 }
